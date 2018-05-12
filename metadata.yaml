@@ -1,0 +1,28 @@
+_repo: Nella-lotta_30032
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelnuovo, Enrico
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '8678'
+    url: http://www.gutenberg.org/2009/agents/8678
+    wikipedia: http://en.wikipedia.org/wiki/Enrico_Castelnuovo
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2009-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30032'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Nella lotta
+url: http://www.gutenberg.org/ebooks/30032
